@@ -8,7 +8,9 @@ One SDK for cross-platform publishing HTML5 games developed in Unity Engine.
 ## Usage
 
 - Fluent Command/Query
+- Initialization
 - Advert
+- Player Profile (Authentication)
 
 
 ##### Fluent Command/Query
